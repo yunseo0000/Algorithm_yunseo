@@ -16,7 +16,3 @@ def solution(numbers):
     # 모든 값이 '0'일 때는 '0'을 리턴
     #00 인 경우
     return '0' if result[0] == '0' else result
-
-
-    
-
